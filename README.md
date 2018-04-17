@@ -38,3 +38,9 @@ gating<br>
 tensorRT加速3-4倍<br>
 tensorflow：tensorpack、slim<br>
 轻量级网络：mobilenet、shufflenet<br>
+
+## 特征定长
+lstm/gru<br>
+vlad<br>
+padding<br>
+
