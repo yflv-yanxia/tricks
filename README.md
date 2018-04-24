@@ -42,5 +42,6 @@ tensorflow：tensorpack、slim<br>
 ## 特征定长
 lstm/gru<br>
 vlad<br>
-padding<br>
+padding/cut<br>
+roi pooling<br>
 
