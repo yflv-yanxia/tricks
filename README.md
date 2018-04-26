@@ -44,4 +44,5 @@ lstm/gru<br>
 vlad<br>
 padding/cut<br>
 roi pooling<br>
+attention<br>
 
