@@ -1,7 +1,7 @@
 # tricks
 ## Samples
 样本合成工具<br>
-data augmentagion: flip,crop,blur<br>
+data augmentagion: flip, crop, blur, dropout & ensemble<br>
 提取人工特征作为输入，比如：ldp,hog<br>
 
 ## loss
