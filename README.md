@@ -25,6 +25,7 @@ global average pooling<br>
 U-Net，前面的特征层直接连到后面<br>
 lstm慢，可以代替方案，将视频上一帧的网络的输出作为下一帧网络的输入<br>
 backbone<br>
+deep mutual learning<br>
 
 ## algorithm
 multi-task: object detection<br>
