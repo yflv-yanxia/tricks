@@ -6,6 +6,7 @@ data augmentagion: flip,crop,blur<br>
 
 ## loss
 triplet loss<br>
+smooth L1 loss-outlier<br>
 
 ## training
 boosting<br>
