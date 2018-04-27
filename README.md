@@ -26,13 +26,15 @@ lstm慢，可以代替方案，将视频上一帧的网络的输出作为下一�
 backbone<br>
 
 ## algorithm
-multi-task<br>
+multi-task: object detection<br>
 md-lstm<br>
 attention<br>
 net-vlad<br>
 moe-mixture of experts<br>
-多模型ensemble<br>
-gating<br>
+ensemble<br>
+gating: video classification<br>
+radical-based: chinese character recognition<br>
+stack stages on the top of network: openpose<br>
 
 ## tools
 tensorRT加速3-4倍<br>
