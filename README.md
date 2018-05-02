@@ -7,6 +7,7 @@ data augmentagion: flip, crop, blur, dropout & ensemble<br>
 ## loss
 triplet loss<br>
 smooth L1 loss-outlier<br>
+overfitting-L1/L2 regularization<br>
 
 ## training
 boosting<br>
