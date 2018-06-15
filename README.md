@@ -55,3 +55,12 @@ attention<br>
 SGD<br>
 AdaDelta<br>
 Nesterov accelerated gradient(NAG)<br>
+
+## filler
+constant<br>
+gaussian<br>
+positive_unitball<br>
+uniform<br>
+xavier - relu, 2010<br>
+msra - relu, hekaiming2015<br>
+bilinear - deconv<br>
