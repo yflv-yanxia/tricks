@@ -51,3 +51,7 @@ padding/cut<br>
 roi pooling<br>
 attention<br>
 
+## optimization
+SGD<br>
+AdaDelta<br>
+Nesterov accelerated gradient(NAG)<br>
