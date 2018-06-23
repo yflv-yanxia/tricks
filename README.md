@@ -30,7 +30,7 @@ deep mutual learning<br>
 
 ## algorithm
 multi-task: object detection<br>
-md-lstm<br>
+md-lstm/spatio-temporal-lstm<br>
 attention<br>
 1d conv<br>
 net-vlad<br>
