@@ -23,7 +23,7 @@ hard sample<br>
 adam<br>
 归一化，减均值除方差，可以是训练集的统计值，也可以是单个样本的统计值<br>
 global average pooling<br>
-U-Net，前面的特征层直接连到后面<br>
+U-Net，multi-scale<br>
 lstm慢，可以代替方案，将视频上一帧的网络的输出作为下一帧网络的输入<br>
 backbone<br>
 deep mutual learning<br>
@@ -32,6 +32,7 @@ deep mutual learning<br>
 multi-task: object detection<br>
 md-lstm<br>
 attention<br>
+1d conv<br>
 net-vlad<br>
 moe-mixture of experts<br>
 ensemble<br>
