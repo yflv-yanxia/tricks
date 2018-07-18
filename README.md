@@ -19,8 +19,7 @@ deep<br>
 3*3 kernel<br>
 finetune<br>
 relu<br>
-hard sample<br>
-adam<br>
+hard sample mining<br>
 归一化，减均值除方差，可以是训练集的统计值，也可以是单个样本的统计值<br>
 global average pooling<br>
 U-Net，multi-scale<br>
@@ -55,6 +54,7 @@ attention<br>
 
 ## optimization
 SGD<br>
+adam<br>
 AdaDelta<br>
 Nesterov accelerated gradient(NAG)<br>
 
