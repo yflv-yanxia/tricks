@@ -1,7 +1,7 @@
 # tricks
 ## Samples
 样本合成工具<br>
-data augmentagion: flip, Random Crop, blur, dropout & ensemble, clip, linefitting, Aspect Ratio, Random Rotation, Pixel Jitter, Random Mirror, 贴背景,shift,zoom<br>
+data augmentagion: flip, Random Crop, blur, dropout & ensemble, clip, linefitting, Aspect Ratio, Random Rotation, Pixel Jitter, Random Mirror, 贴背景,shift,zoom，elastic distortion<br>
 提取人工特征作为输入，比如：ldp,hog<br>
 
 ## loss
