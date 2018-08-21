@@ -25,7 +25,7 @@ global average pooling<br>
 U-Net，multi-scale<br>
 lstm慢，可以代替方案，将视频上一帧的网络的输出作为下一帧网络的输入<br>
 backbone<br>
-deep mutual learning<br>
+[deep mutual learning](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0304.pdf)<br>
 
 ## algorithm
 multi-task: object detection<br>
