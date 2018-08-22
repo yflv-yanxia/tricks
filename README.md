@@ -19,7 +19,7 @@ deep<br>
 3*3 kernel<br>
 finetune<br>
 relu<br>
-[online hard sample mining](https://arxiv.org/abs/1604.03540)<br>
+[online hard sample mining](https://arxiv.org/abs/1604.03540)-keep positive=1, normal negative=1.5, hard negative=1.5<br>
 归一化，减均值除方差，可以是训练集的统计值，也可以是单个样本的统计值<br>
 global average pooling<br>
 U-Net，multi-scale<br>
