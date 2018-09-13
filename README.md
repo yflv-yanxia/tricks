@@ -39,6 +39,9 @@ gating: video classification<br>
 radical-based: chinese character recognition<br>
 stack stages on the top of network: openpose<br>
 deconv后，和原图尺寸不同可以使用autocrop (Richer Convolutional Features for Edge Detection)
+soft-nms
+deformable convolution
+cascade
 
 ## tools
 tensorRT加速3-4倍<br>
