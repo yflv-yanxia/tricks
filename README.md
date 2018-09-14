@@ -44,9 +44,14 @@ deformable convolution
 cascade
 
 ## tools
-tensorRT加速3-4倍<br>
 tensorflow：tensorpack、slim<br>
-轻量级网络：mobilenet、shufflenet<br>
+
+## 加速
+  tensorRT加速3-4倍
+  轻量级网络：mobilenet、shufflenet
+# 手机端
+  ncnn(tencent), cpu
+  mace(xiaomi), cpu & gpu
 
 ## 特征定长
 lstm/gru<br>
