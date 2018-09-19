@@ -28,20 +28,20 @@ backbone<br>
 [deep mutual learning](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0304.pdf)<br>
 
 ## algorithm
-multi-task: object detection<br>
-md-lstm/spatio-temporal-lstm<br>
-attention<br>
-1d conv<br>
-net-vlad<br>
-moe-mixture of experts<br>
-ensemble<br>
-gating: video classification<br>
-radical-based: chinese character recognition<br>
-stack stages on the top of network: openpose<br>
-deconv后，和原图尺寸不同可以使用autocrop (Richer Convolutional Features for Edge Detection)
-soft-nms
-deformable convolution
-cascade
+    multi-task: object detection
+    md-lstm/spatio-temporal-lstm
+    attention
+    1d conv
+    net-vlad
+    moe-mixture of experts
+    ensemble
+    gating: video classification
+    radical-based: chinese character recognition
+    stack stages on the top of network: openpose
+    deconv后，和原图尺寸不同可以使用autocrop (Richer Convolutional Features for Edge Detection)
+    soft-nms
+    deformable convolution
+    cascade
 
 ## tools
 tensorflow：tensorpack、slim<br>
