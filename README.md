@@ -42,7 +42,8 @@ backbone<br>
     soft-nms
     deformable convolution
     cascade
-    dilated net增加感受野
+    dilated unet增加感受野
+    stacked unet增加感受野
 
 ## tools
 tensorflow：tensorpack、slim<br>
