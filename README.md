@@ -3,7 +3,8 @@
 样本合成工具<br>
 data augmentagion: flip, Random Crop, blur, dropout & ensemble, clip, linefitting, Aspect Ratio, Random Rotation, Pixel Jitter, Random Mirror, 贴背景,shift,zoom, motion blur, Erosion and dilation, down sampling, gaussion noise, elastic distortion, <br>
 提取人工特征作为输入，比如：ldp,hog<br>
-拉伸压缩在text recognition中也有近一个点的提升
+拉伸压缩在text recognition中也有近一个点的提升<br>
+jepg压缩<br>
 
 ## loss
 triplet loss<br>
